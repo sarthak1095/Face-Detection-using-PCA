@@ -1,6 +1,6 @@
 # Face-Detection-using-PCA
 
-## Project Overview 
+### Project Overview 
 
 This Face Detection project focuses on developing a facial recognition and classification system using machine learning techniques while exploring the functionality of dimensionality reduction through PCA. The study reported results through visualizations, such as ROC curves and confusion matrices, demonstrating strong label prediction accuracy for test images. Certain models, including LDA, LR, and SVM, outperformed others, achieving high precision, recall, F1-score, and accuracy. However, some models, like KNN, showed limitations, and others had varied outcomes
 
